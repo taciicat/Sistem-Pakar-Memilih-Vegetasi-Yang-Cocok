@@ -18,7 +18,7 @@ if (!_session('login') && in_array($mod, ['sayuran', 'gejala', 'relasi', 'rule',
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="assets/favicon.ico" />
 
-    <title>Sistem Pakar Deteksi Penyakit Ibu Hamil</title>
+    <title>Sistem Pakar Pemilihan Vegetasi</title>
     <link href="assets/css/yeti-bootstrap.min.css" rel="stylesheet" />
     <link href="assets/css/general.css" rel="stylesheet" />
     <link href="assets/css/select2.min.css" rel="stylesheet" />
